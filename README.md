@@ -1,5 +1,6 @@
 # CODSOFT
 Python Programming Internship Tasks - CodSoft.
+
 This repository contains my python projects completed as part of the CODSOFT Python Programming Internship.
 
 
@@ -39,7 +40,9 @@ Features:
 File:`password_generator.py`
 
 ##Technology Used
+
 -Python
 
 ##Internship
+
 CODSOFT Python Programming Internship
